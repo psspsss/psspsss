@@ -1,6 +1,11 @@
 <h1>Hi 👋, I'm Unemployed </h1>
-<p>I wanna leave my home asap and willing to learn and get down to any means necessary to learn and do anything necessary.   
-Currently Learning      
+
+# "Experience"
+Director of Unemployment and depression learning.
+Lead team lead at corpcorp. 
+
+<p>I wanna leave my home asap and for that I'm willing to learn and get down to any means necessary to learn and do anything necessary.   
+# Currently Learning      
 Industrial confusion & inconviencience engineering     
 Force push and pray verose abstraction (in the general sense as it applies to cubic regression)     
 liquification     
