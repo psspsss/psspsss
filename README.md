@@ -3,7 +3,7 @@
 Director of Unemployment and depression learning.
 Lead team lead at corpcorp. 
 
-I wanna leave my home asap and for that I'm willing to learn and get down to any means necessary to learn and do anything necessary.  
+I wanna move out asap and for that I'm willing to learn and get down to any means necessary to learn and do anything necessary.  
 
 # Currently Learning      
 - Industrial confusion & inconviencience engineering
