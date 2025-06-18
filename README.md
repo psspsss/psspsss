@@ -1,4 +1,6 @@
 
+https://vinayakmajhi.vercel.app/
+
 # "Experience"
 Director of Unemployment and depression learning.
 Lead team lead at corpcorp. 
