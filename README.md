@@ -1,4 +1,4 @@
-
+# Basing my entire personality to linux poweruser (it's been 2 days since I switched)
 https://vinayakmajhi.vercel.app/
 
 # "Experience"
