@@ -19,8 +19,6 @@ If 'nonsense' ever hits GitHub trending I'll use arch
 
 # Me having to come up with a project is a failure of the world"- Linus not me
 
-![GitHub Streak](https://streak-stats.demolab.com?user=psspsss&theme=transparent)
-
 <h2>Languages, Tools and shizz I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
