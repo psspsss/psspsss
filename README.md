@@ -14,7 +14,7 @@ I wanna move out asap and for that I'm willing to learn and get down to any mean
 
 If 'nonsense' ever hits GitHub trending I'll use arch
 
-![psspsss's Streak](https://github-readme-streak-stats.herokuapp.com/?user=psspsss&theme=vue-dark&hide_border=true)
+![psspsss's Streak](https://github-readme-streak-stats.herokuapp.com/?user=psspsss&theme=gotham&hide_border=true)
 
 <h2>Languages, Tools and shizz I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
