@@ -1,19 +1,6 @@
-# "Experience"
-Director of Unemployment and depression learning.
-Lead team lead at corpcorp. 
-
-I wanna move out asap and for that I'm willing to learn and get down to any means necessary to learn and do anything necessary.  
-
-# Currently Learning      
-- Industrial confusion & inconviencience engineering
-- Force push and pray
-- verose abstraction (in the general sense as it applies to cubic regression)
-- liquification
-- analytical analysis
-- Rats (those lil cheese eating gray guys)
-
-If 'nonsense' ever hits GitHub trending I'll use arch
-
+# Currently Learning: 
+Java
+-Spring and SpringBoot
 ![psspsss's Streak](https://github-readme-streak-stats.herokuapp.com/?user=psspsss&theme=gotham&hide_border=true)
 
 <h2>Languages, Tools and shizz I Use</h2>
