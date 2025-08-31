@@ -1,6 +1,5 @@
 # Learning List: 
 -Java
-
 -Spring and SpringBoot
 
 -Nvim
